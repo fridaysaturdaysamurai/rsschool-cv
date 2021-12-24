@@ -32,7 +32,8 @@ console.log(getRandomBetween(1, 100))**
 + **HTML Academy**;
 + **Stepik course**;
 + **RS school** (now);
-+ **Myself education**.
++ **Self education**.
 
 ## English:
+Level: **A2**
 I do not understand very well english language, but I'm working on myself: courses, myself education.
