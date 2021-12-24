@@ -11,10 +11,16 @@
 Hello! My little history begin with desire to change everything, left behind the last work, I decided to study programming. I starting learning programming with "HTML Academy" , course from [Stepik](https://welcome.stepik.org/ru) and help of my programmer friend.
 
 ## Example of My Code:
-**function getRandomBetween (min, max) {**
-    **return Math.floor(Math.random() * (max - min) + min)**
-**}**
-**console.log(getRandomBetween(1, 100))**
+**function getRandomBetween (min, max) {
+
+
+    return Math.floor(Math.random() * (max - min) + min)
+
+
+}
+
+
+console.log(getRandomBetween(1, 100))**
 
 ## My Skils:
 + HTML, CSS;
