@@ -1,1 +1,0 @@
-https://fridaysaturdaysamurai.github.io/rsschool-cv/cv
