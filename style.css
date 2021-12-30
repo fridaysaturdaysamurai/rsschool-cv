@@ -96,6 +96,7 @@ h1 {
 .contact-li {
     font-size: 18px;
     letter-spacing: 2px;
+    line-height: 25px;
 }
 
 .a-contact {
@@ -111,4 +112,38 @@ hr {
     color:black;
     width: 80%;
     margin-top: 50px;
+}
+
+.skills-about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+.about-me {
+    width: 500px;
+    margin: 20px 50px 0 0;
+
+}
+
+.h2-about {
+    text-transform: uppercase;
+}
+
+.p-about {
+    font-size: 20px;
+}
+
+.skills {
+    margin: 20px 0 0 0;
+}
+
+.h2-skills {
+    text-transform: uppercase;
+}
+
+.li-skills {
+    list-style-type: square;
+    line-height: 30px;
+    font-size: 20px;
 }
